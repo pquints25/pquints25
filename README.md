@@ -23,7 +23,7 @@ Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScrip
 
 ## 📈 Estadísticas de GitHub
 
-![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
+![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=pquints25&show_icons=true&theme=radical)
 
 ## 📫 ¿Cómo contactarme?
 
