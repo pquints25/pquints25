@@ -27,9 +27,9 @@ Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScrip
 
 ## 📫 ¿Cómo contactarme?
 
-- [LinkedIn](tu_linkedin)
-- [Twitter](tu_twitter)
-- [Correo electrónico](tu_email)
+- [LinkedIn](https://www.linkedin.com/in/paolostefanoquintilianisaavedra/)
+- [Instagram](quints_91)
+- [Correo electrónico](paoloquintiliani91@gmail.com)
 
 ## 🚀 Recursos de aprendizaje
 - **Bootcamp Full Stack Desarrollo de aplicaciones JavaScript Inforcap**:
