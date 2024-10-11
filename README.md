@@ -1,8 +1,8 @@
-# 👋 Hola, soy Paolo
+# ✌ Saludos, soy Paolo 🤖
 
-Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScript y trabajando en proyectos emocionantes. Mi objetivo es mejorar mis habilidades de programación y crear aplicaciones útiles.
+Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScript y trabajando en proyectos emocionantes. Mi objetivo es mejorar mis habilidades de programación y crear aplicaciones útiles. Asi como tambien aprendiendo diseño UX/UI
 
-## 🌱 Tecnologías que utilizo
+## 🌱 Tecnologías que utilizo 🐐
 
 - **JavaScript**: Enfocado en la programación asíncrona, manejo de DOM, callbacks y promesas.
 - **Node.js**: Creando servidores y aplicaciones RESTful.
@@ -25,7 +25,7 @@ Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScrip
 
 ![Mis estadísticas](https://github-readme-stats.vercel.app/api?username=pquints25&show_icons=true&theme=radical)
 
-## 📫 ¿Cómo contactarme?
+## 📲➡ ¿Cómo contactarme? 
 
 - [LinkedIn](https://www.linkedin.com/in/paolostefanoquintilianisaavedra/)
 - [Instagram](quints_91)
@@ -39,4 +39,4 @@ Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScrip
 
 ---
 
-Estoy emocionado por seguir aprendiendo y compartiendo mis proyectos. ¡Gracias por visitar mi perfil!
+Estoy emocionado por seguir aprendiendo y compartiendo mis proyectos. ¡Gracias por visitar mi perfil! 😎
