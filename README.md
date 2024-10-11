@@ -32,7 +32,8 @@ Soy un entusiasta del desarrollo web que actualmente está aprendiendo JavaScrip
 - [Correo electrónico](paoloquintiliani91@gmail.com)
 
 ## 🚀 Recursos de aprendizaje
-- **Bootcamp Full Stack Desarrollo de aplicaciones JavaScript Inforcap**:
+- **Bootcamp Full Stack Desarrollo de aplicaciones JavaScript, Inforcap**: 
+- **Diseño de Experiencia de usuario UX, Coursera**:
 - **JavaScript Info**: [JavaScript.info](https://javascript.info)
 - **MDN Web Docs**: [Mozilla Developer Network](https://developer.mozilla.org/es/)
 - **FreeCodeCamp**: [FreeCodeCamp](https://www.freecodecamp.org)
